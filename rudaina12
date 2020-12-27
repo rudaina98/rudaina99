@@ -8,8 +8,10 @@ the user pay for customs and delivery
 END IF
 
 IF category_producer ="shoes"
-the user will receive a gift 
+the user will receive a gift
 ELSE
 The user will not receive a gift
+read prodect 1
+print prodect 1
 END IF
 END FOR 
